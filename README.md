@@ -25,8 +25,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by:REXLIN R
-Registeration Number :212222220034
+Developed by: Sri Ranjani Priya P
+Registeration Number :212222220049
 */
 ```
 ### ACTIVITY_MAIN.XML
